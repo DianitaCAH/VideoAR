@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /local.properties
 .idea
@@ -6,6 +7,8 @@
 /captures
 .cxx
 
+=======
+>>>>>>> f74bc35c58880616c08f5b86585e9ae5a3f71519
 # Built application files
 *.apk
 *.ap_
